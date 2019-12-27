@@ -1,0 +1,224 @@
+/* for body*/
+body{
+  background-color:white;
+
+}
+
+  .navbar {
+    background:rgb(45, 45, 45);
+    font-size: 1.2em;
+
+    
+}
+
+.navbar-collapse a{
+  opacity: 1;
+}
+  
+ .navbar-default .navbar-nav  li  a {
+      color:white;
+      opacity: 1;
+      font-weight: 100;
+      
+  }
+  
+  .navbar-brand {
+    height: 80px;
+    opacity: 1;
+    padding: 0px;
+    
+  }
+  
+  .nav >li >a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    opacity: 1;
+  }
+ 
+  .navbar-toggle {
+    padding: 10px;
+    margin: 25px 15px 25px 0;
+    z-index: 99999;
+  }
+
+
+  .navbar-brand>img {
+    height: 100%;
+    padding: 10px;;
+    width: 110px;
+    opacity: 2;
+    
+  }
+
+  .container
+  {
+    margin-top: 60px;
+    margin-bottom:60px;
+    padding-top: 0px;
+  }
+ 
+  /* for brand tagline*/
+    .tagline {
+      position: relative;
+
+          font-size: 30px;
+          top: 10px;
+          left:5px;
+          color:white;
+          bottom: 14px;
+          padding-left: 100px;
+          padding-top: 15px;
+          opacity: 10;
+          font-weight: 300;
+          font-style: oblique;
+ }
+
+   
+  
+   
+/* for images*/
+.c1
+{
+ background-image: url(images/9.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+.c2
+{
+ background-image: url(images/do.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+ 
+}
+
+.c3
+{
+ background-image: url(images/o1.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c4
+{
+ background-image: url(images/t1.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c5
+{
+ background-image: url(images/d5.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c6
+{
+ background-image: url(images/b1.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c7
+{
+ background-image: url(images/d2.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c8
+{
+ background-image: url(images/b2.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+.c9
+{
+ background-image: url(images/pp.jpg);
+ height: 400px;
+ width: 100%;
+ background-size: contain;
+ background-repeat: no-repeat;
+
+}
+
+/* for hr*/
+.line{
+    border-top: 1px solid black;
+}
+
+/* for footer*/
+.footer{
+  background:#1F1D18;
+  margin-top: 10px;
+  position: relative;
+  
+	}
+.fot-text h1{
+	color:#fff;
+	}
+.fot-text h6{
+	color:#fff;
+	}
+.icons{
+  padding:10px;
+	font-size:24px;
+}
+
+
+
+  
+.red-bull{
+	padding-top:20px;
+}
+.red-bull h4{
+  color:#fff;
+  padding: 0px;
+  margin: 10px;
+ 
+  
+  
+
+  
+}
+.red-bull img{
+  padding-top: 0px;
+  
+ 
+ 
+}
+
+/* for navbar dropdown height*/
+.category 
+{
+  height: 250px;
+}
+
+.category a
+{
+  margin-top: 20px;
+}
